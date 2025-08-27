@@ -1,0 +1,4 @@
+http://darkly.prj/index.php?page=feedback
+https://portswigger.net/web-security/cross-site-scripting/cheat-sheet
+<image src=validimage.png onload=alert(1)
+
