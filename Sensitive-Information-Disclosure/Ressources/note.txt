@@ -1,0 +1,3 @@
+checking /robot.txt -> get this path : /whatever/htpasswd
+cracking pass using this website : https://crackstation.net/
+then we can login to /admin
